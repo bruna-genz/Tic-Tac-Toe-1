@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.6",
+    "copy-webpack-plugin": "^6.0.2",
     "css-loader": "^3.5.3",
     "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.1.0",

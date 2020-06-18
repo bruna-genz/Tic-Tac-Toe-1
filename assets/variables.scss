@@ -1,0 +1,20 @@
+$pink: rgb(233, 72, 139);
+$blue: rgb(89,222,255);
+$purple: #848AC4;
+$yellow: #FBC625;
+$nightblue :#1f0575;
+$hardpink: #c34b6c;
+$navblue:#160746;
+
+$colors: (
+  
+  pulse: #ef6eae, 
+  
+);
+@each $button, $color in $colors {
+    .#{$button} {
+      --color: #{$color};
+      --hover: #{adjust-hue($color, 45deg)};
+    }
+  }
+  
