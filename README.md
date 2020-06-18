@@ -2,7 +2,7 @@
 <div align="center">
     <img src="./src/assets/img/TTT-logo.png" width="100">
     <h1 align="center" width="90">Tic-Tac-Toe</h1>
-    <h2><a href="tictactoe-bruna.netlify.app">Play now >></a></h2>
+    <p><a href="tictactoe-bruna.netlify.app">Play now >></a></p>
 </div>
 
 ## Table of Contents
