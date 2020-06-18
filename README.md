@@ -2,7 +2,7 @@
 <div align="center">
     <img src="./src/assets/img/TTT-logo.png" width="100">
     <h1 align="center" width="90">Tic-Tac-Toe</h1>
-    <h2><a href="https://rawcdn.githack.com/nicolasmarino99/Tic-Tac-Toe/c5dc04b422b4ebe2c9ff7c3f26bce5ca9d71d431/index.html">Play now >></a></h2>
+    <h2><a href="tictactoe-bruna.netlify.app">Play now >></a></h2>
 </div>
 
 ## Table of Contents
@@ -32,7 +32,7 @@ You can find the original description at [The Odin Project](https://www.theodinp
 ## Installation
 
 **To play online**
-- Just access [this link](https://rawcdn.githack.com/nicolasmarino99/Tic-Tac-Toe/c5dc04b422b4ebe2c9ff7c3f26bce5ca9d71d431/index.html) for the live version. To start the game, click on the button "Multiplayer", type the players' names and click on "Go!".
+- Just access [this link](tictactoe-bruna.netlify.app) for the live version. To start the game, click on the button "Multiplayer", type the players' names and click on "Go!".
 
 **To install the game locally**
 - Download or clone the [game repository](https://github.com/bruna-genz/Tic-Tac-Toe-JS.git).
